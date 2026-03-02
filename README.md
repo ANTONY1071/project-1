@@ -22,5 +22,5 @@ After referencing textbooks and online sources, I found two primary ways to buil
 * 🐍 Built entirely in Python
 
 ### Improvements made:
-!.Utilised Gemini AI to create a ideal text filee for easy navigation
+!.Utilised Gemini AI to create a ideal text file for easy navigation
 2.
