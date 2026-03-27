@@ -23,4 +23,10 @@ After referencing textbooks and online sources, I found two primary ways to buil
 
 ### Improvements made:
 !.Utilised Gemini AI to create a ideal text file for easy navigation
-2.
+2.Found many mmistake along the code but corrected many of them after various trial and error
+
+Credits:
+My teachers 
+Friends
+online platforms like gemini
+books(learning with python by Aurora Sumita).
