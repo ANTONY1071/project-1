@@ -25,8 +25,14 @@ After referencing textbooks and online sources, I found two primary ways to buil
 !.Utilised Gemini AI to create a ideal text file for easy navigation
 2.Found many mmistake along the code but corrected many of them after various trial and error
 
+###Instructions for users:
+>the words need to be typed properly (the first letter always caps)
+>Anyone can utilies my code as long as given the proper credits
+
 Credits:
 My teachers 
 Friends
 online platforms like gemini
 books(learning with python by Aurora Sumita).
+
+-------I am tring to make this into a proper app in the future so stay tuned-------
